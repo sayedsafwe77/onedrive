@@ -1,0 +1,280 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('sayed01142279944%40outlook.sa')/drive/root/children",
+    "@odata.count": 6,
+    "value": [
+        {
+            "createdDateTime": "2022-07-18T18:36:57.33Z",
+            "cTag": "adDo5Qzc2NTVGOTgyNkQ5RTQ2ITEwNi42Mzc5NDAyMTU4MTk0MzAwMDA",
+            "eTag": "aOUM3NjU1Rjk4MjZEOUU0NiExMDYuMA",
+            "id": "9C7655F9826D9E46!106",
+            "lastModifiedDateTime": "2022-07-21T17:33:01.943Z",
+            "name": "Desktop",
+            "size": 135794650,
+            "webUrl": "https://1drv.ms/f/s!AEaebYL5VXacag",
+            "reactions": {
+                "commentCount": 0
+            },
+            "createdBy": {
+                "application": {
+                    "displayName": "MSOffice15",
+                    "id": "480728c5"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "lastModifiedBy": {
+                "application": {
+                    "displayName": "MSOffice15",
+                    "id": "480728c5"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "parentReference": {
+                "driveId": "9c7655f9826d9e46",
+                "driveType": "personal",
+                "id": "9C7655F9826D9E46!101",
+                "path": "/drive/root:"
+            },
+            "fileSystemInfo": {
+                "createdDateTime": "2022-07-18T18:36:57.33Z",
+                "lastModifiedDateTime": "2022-07-18T18:36:57.33Z"
+            },
+            "folder": {
+                "childCount": 15,
+                "view": {
+                    "viewType": "thumbnails",
+                    "sortBy": "name",
+                    "sortOrder": "ascending"
+                }
+            },
+            "specialFolder": {
+                "name": "desktop"
+            }
+        },
+        {
+            "createdDateTime": "2022-07-18T18:31:22.623Z",
+            "cTag": "adDo5Qzc2NTVGOTgyNkQ5RTQ2ITEwMy42Mzc5Mzc2NTg4MjYyMzAwMDA",
+            "eTag": "aOUM3NjU1Rjk4MjZEOUU0NiExMDMuMA",
+            "id": "9C7655F9826D9E46!103",
+            "lastModifiedDateTime": "2022-07-18T18:31:22.623Z",
+            "name": "Documents",
+            "size": 0,
+            "webUrl": "https://1drv.ms/f/s!AEaebYL5VXacZw",
+            "reactions": {
+                "commentCount": 0
+            },
+            "createdBy": {
+                "application": {
+                    "displayName": "OneDrive",
+                    "id": "481710a4"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "lastModifiedBy": {
+                "application": {
+                    "displayName": "OneDrive",
+                    "id": "481710a4"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "parentReference": {
+                "driveId": "9c7655f9826d9e46",
+                "driveType": "personal",
+                "id": "9C7655F9826D9E46!101",
+                "path": "/drive/root:"
+            },
+            "fileSystemInfo": {
+                "createdDateTime": "2022-07-18T18:31:22.623Z",
+                "lastModifiedDateTime": "2022-07-18T18:31:22.623Z"
+            },
+            "folder": {
+                "childCount": 0,
+                "view": {
+                    "viewType": "thumbnails",
+                    "sortBy": "name",
+                    "sortOrder": "ascending"
+                }
+            },
+            "specialFolder": {
+                "name": "documents"
+            }
+        },
+        {
+            "createdDateTime": "2022-07-18T18:31:22.7Z",
+            "cTag": "adDo5Qzc2NTVGOTgyNkQ5RTQ2ITEwNC42Mzc5Mzc2NjIyMTY5MzAwMDA",
+            "eTag": "aOUM3NjU1Rjk4MjZEOUU0NiExMDQuMA",
+            "id": "9C7655F9826D9E46!104",
+            "lastModifiedDateTime": "2022-07-18T18:37:01.693Z",
+            "name": "Pictures",
+            "size": 0,
+            "webUrl": "https://1drv.ms/f/s!AEaebYL5VXacaA",
+            "reactions": {
+                "commentCount": 0
+            },
+            "createdBy": {
+                "application": {
+                    "displayName": "OneDrive",
+                    "id": "481710a4"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "lastModifiedBy": {
+                "application": {
+                    "displayName": "OneDrive",
+                    "id": "481710a4"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "parentReference": {
+                "driveId": "9c7655f9826d9e46",
+                "driveType": "personal",
+                "id": "9C7655F9826D9E46!101",
+                "path": "/drive/root:"
+            },
+            "fileSystemInfo": {
+                "createdDateTime": "2022-07-18T18:31:22.7Z",
+                "lastModifiedDateTime": "2022-07-18T18:31:22.7Z"
+            },
+            "folder": {
+                "childCount": 3,
+                "view": {
+                    "viewType": "thumbnails",
+                    "sortBy": "takenOrCreatedDateTime",
+                    "sortOrder": "ascending"
+                }
+            },
+            "specialFolder": {
+                "name": "photos"
+            }
+        },
+        {
+            "@microsoft.graph.downloadUrl": "https://public.db.files.1drv.com/y4m-tWDE1U1D56KFZtP94yT-eFAkWpiYlTbX2RaWcdN3eYfwAWaq3dIT8R4ElsW5lU-JWLHVW6Rh5Dl-nrvFmtfjtAub1ZdmzOY2J_Gz9hPWSwSJd5W8LcnV585VZsq0iyHYoWpn3UJSCjRKG9UDeWqSA2cz5xrT5pvzfZVTpeQzqPiTPP9WGqw5XhCfLThE5i7rDJC58axOnc0ohbcuNCMdeMne2V9DY2Y3A3y4jDj1Q1VuiOISafMWCBBimUGa4cNShss4INE54YIBzhFfRDS6DdWtZ9Xw6ziRyEP7p8TWBYwN-kGtNNBzzxNRETtIRkgRa7uq1UoCFFnU89EJPMMzQ",
+            "createdDateTime": "2022-07-18T18:31:22.427Z",
+            "cTag": "aYzo5Qzc2NTVGOTgyNkQ5RTQ2ITEwMi4yNTc",
+            "eTag": "aOUM3NjU1Rjk4MjZEOUU0NiExMDIuMw",
+            "id": "9C7655F9826D9E46!102",
+            "lastModifiedDateTime": "2022-07-18T18:32:48.747Z",
+            "name": "Getting started with OneDrive.pdf",
+            "size": 1098793,
+            "webUrl": "https://1drv.ms/b/s!AEaebYL5VXacZg",
+            "reactions": {
+                "commentCount": 0
+            },
+            "createdBy": {
+                "application": {
+                    "displayName": "OneDrive",
+                    "id": "481710a4"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "lastModifiedBy": {
+                "application": {
+                    "displayName": "OneDrive",
+                    "id": "481710a4"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                }
+            },
+            "parentReference": {
+                "driveId": "9c7655f9826d9e46",
+                "driveType": "personal",
+                "id": "9C7655F9826D9E46!101",
+                "path": "/drive/root:"
+            },
+            "file": {
+                "mimeType": "application/pdf",
+                "hashes": {
+                    "quickXorHash": "wCw5GJaHCCcwERgio8/KgSc9fm4=",
+                    "sha1Hash": "1ABDD1D56CEE232634942678903516EACD15510A",
+                    "sha256Hash": "FD903D0D0A36D414054DB1238D49F5AEAA78CE6A09F2DF320AA4B191E9FF8D4B"
+                }
+            },
+            "fileSystemInfo": {
+                "createdDateTime": "2022-07-18T18:31:22.426Z",
+                "lastModifiedDateTime": "2022-07-18T18:31:22.426Z"
+            }
+        },
+        {
+            "@microsoft.graph.downloadUrl": "https://public.db.files.1drv.com/y4m1dm4YAWHieKQIELQwaDONS8SUPIUhMW8PmHymGVN6RCOeEYKE2MVXYgV2k4a6TO2CD3DdEqt0Ct1haoVEqp3E3EZ-M44ewkl80OZ6ZqZX_fwSXb1g_CFJZNFLjoFN_bScpNgpcg9FzVUTnMMJEiBgxGRaRSmAzzHs3tw3gxtxC9sGiMTc6OhAcqeHRBFKcvAlstikzm9mQBWgvjl-veHFSWdtSVywswdMGUjgeTlBxOHzpIq6aD-9kO8tJlSmIUAEI6AHq5inEOTV6Y4rEmPt7hVslzFh6RsuqIiKZ8fYGErAXEKMtb8ZepCMY6u_3wWnYh41MG_wOZq77qjuxTwYA",
+            "createdDateTime": "2022-07-18T18:37:47.65Z",
+            "cTag": "aYzo5Qzc2NTVGOTgyNkQ5RTQ2ITEyNS4yNTc",
+            "eTag": "aOUM3NjU1Rjk4MjZEOUU0NiExMjUuMw",
+            "id": "9C7655F9826D9E46!125",
+            "lastModifiedDateTime": "2022-07-18T18:38:52.48Z",
+            "name": "yasmin.xlsx",
+            "size": 9782,
+            "webUrl": "https://1drv.ms/x/s!AEaebYL5VXacfQ",
+            "reactions": {
+                "commentCount": 0
+            },
+            "createdBy": {
+                "application": {
+                    "displayName": "MSOffice15",
+                    "id": "480728c5"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                },
+                "oneDriveSync": {
+                    "@odata.type": "#microsoft.graph.identity",
+                    "id": "46ec744c-84a2-4098-a5f9-ffff11000000"
+                }
+            },
+            "lastModifiedBy": {
+                "application": {
+                    "displayName": "MSOffice15",
+                    "id": "480728c5"
+                },
+                "user": {
+                    "displayName": "sayed safwet",
+                    "id": "9c7655f9826d9e46"
+                },
+                "oneDriveSync": {
+                    "@odata.type": "#microsoft.graph.identity",
+                    "id": "46ec744c-84a2-4098-a5f9-ffff11000000"
+                }
+            },
+            "parentReference": {
+                "driveId": "9c7655f9826d9e46",
+                "driveType": "personal",
+                "id": "9C7655F9826D9E46!101",
+                "path": "/drive/root:"
+            },
+            "file": {
+                "mimeType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "hashes": {
+                    "quickXorHash": "PfJyTyQCPvvYAdfnf3SbOSLmnLY=",
+                    "sha1Hash": "DAE5F1A3C82B6EB290B34D58E58922E783F8FA8F",
+                    "sha256Hash": "6A1F2576078A2D990346A5B8BCCAC7B1E38C175C7EC4CB18E20E5DCA9A5E83C5"
+                }
+            },
+            "fileSystemInfo": {
+                "createdDateTime": "2022-07-18T18:37:47.65Z",
+                "lastModifiedDateTime": "2022-03-09T19:57:02Z"
+            }
+        }
+    ]
+}
